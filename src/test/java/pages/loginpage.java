@@ -20,7 +20,7 @@ public class loginpage extends basepage{
     WebElement logout;
 
     String drop_down="//*[@class=\"oxd-userdropdown-img\"]";
-    String hrm_url="https://testsusmit-trials714.orangehrmlive.com";
+    String hrm_url="https://susmitsurwade-trials718.orangehrmlive.com/auth/login";
     String username="//*[@id=\"txtUsername\"]";
     String password="//*[@id=\"txtPassword\"]";
     String submit="//*[@id=\"frmLogin\"]/div[4]/button";
